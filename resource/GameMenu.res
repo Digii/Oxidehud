@@ -36,12 +36,15 @@
 	}
 	"7"
 	{
-		"label" " "
+		"label" "#MMenu_StartPlaying" 
+		"command" "quickplay"
 		"OnlyAtMenu" "1"
 	}
 	"8"
 	{
-		"label" " "
+		"label" "#MMenu_PlayCoop"
+		"command" "playpve"
+		"OnlyAtMenu" "1"
 	}
 	"9"
 	{
